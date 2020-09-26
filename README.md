@@ -1,11 +1,13 @@
 ### Hi, I'm Vernon, an aspiring Python/Django developer
 
-I've been a hobby programmer since my early childhood, coding with BASIC way back in the 80s, but thus far my career has always been in tourism, with a big focus on leading guiding teams and training guides in Namibia.  I recently resigned from [AndBeyond Sossusvlei Desert Lodge][sossus-desert-lodge], perhaps Namibias top lodge, where I have been working with the guiding team.  Right now I'm working full time on develooping my coding skills to the level where I can enter the industry as a software developer.
+I've been a hobby programmer since my early childhood, coding with BASIC way back in the 80s, but thus far my career has always been in tourism, with a big focus on leading guiding teams and training guides in Namibia.  I recently resigned from [AndBeyond Sossusvlei Desert Lodge][sossus-desert-lodge], perhaps Namibias top lodge, where I have been working with the guiding team.
+
+Right now I'm working full time on develooping my coding skills to the level where I can enter the industry as a software developer.  The reason I'm doing it now is due to Covid which shut down the tourism industry for a while in Namibia.  I've been wanting to make this transition for a long time, but my job has been all-consuming, working long hours with few breaks.  So, the lockdown was a gift to finally get down to learn deeply.
 
 I'm planning to move to the UK (I'm British, at least by passport), where I'll stay with family until I find work.  My plan currently is to move around mid-October this year (2020), and hope to find work in the West Midlands area.
 
 
-### What I do
+### What I do:
 
 I enjoy working with [Python][python] and I'm working on building up my skills in [Django][django] and related techonologies with the hope of working as a back-end or full-stack developer in the UK, within the next couple months.  I've built a number of websites using Django over the years, though the only one that's still online is my own website: [sandcurves.com][website]
 
@@ -16,13 +18,13 @@ I love teaching, and I have taught beginner Python to various people over the ye
 I also enjoy math and so a long term goal is to improve my math skills and learn Python Data Science and related skills, but I've put that on hold for a while until I have a deep skillset to get me started in working with Python/Django on the web first.  
 
 
-### What I'm working on
+### What I'm working on:
 
 - I'm working on my own website, [sandcuves.com][website], where the main thing I'm doing now is adding a blog, the code of which you can find [here][simple-blog-code].
 - I'm building a demo [Tour Company Management App][tcma-code], which I'm building with Django Rest Framework and React as I learn them.
 
 
-### What I'm working learning
+### What I'm learning:
 
 I'm a life-long learner, and so it's thrilling to take time right now to simply focus 100% on learning the following:
 
@@ -32,7 +34,7 @@ I'm a life-long learner, and so it's thrilling to take time right now to simply 
 - Algorithms, mainly through [algoexpert.io][algoexpert], which I'm finding really fun.
 
 
-### Where you can find me
+### Where you can find me:
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter]
