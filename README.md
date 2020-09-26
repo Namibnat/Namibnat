@@ -44,7 +44,7 @@ I'm a life-long learner, and so it's thrilling to take time right now to simply 
 
 ### Are you hiring?
 
-If you happen to be in the West Midlands area, and you're looking for a Django developer, *I might be of value to your organization if* you're looking for the following: A developer who has skills in *Python*, *Django*, *Django Rest Framework*, *some front-end capability*, including HTML5, CSS3, and *React* (soon, I'm still learning basic React), and someone who has a deep love of both *teaching* and *learning*.  Additionally, through my years in the tourism industry I've learned to *lead small teams*, I'm very comfortable with hard work and have *good interpersonal skills* from guiding high end clients for two decades.
+If you happen to be in the West Midlands area, and you're looking for a Django developer, **I might be of value to your organization if** you're looking for the following: A developer who has skills in **Python**, **Django**, **Django Rest Framework**, **some front-end capability**, including HTML5, CSS3, and **React** (soon, I'm still learning basic React), and someone who has a deep love of both **teaching** and **learning**.  Additionally, through my years in the tourism industry I've learned **leadership** through leading lead small teams, I'm very comfortable with hard work and have **good interpersonal skills** from guiding high end clients for two decades.
 
 What I'm looking for:  A Python/Django job.  A chance to enter a team that's working on interesting things, where growth is valued and supported.  Ideally not remote, because, though quiet, I'm VERY MUCH a people person, though I know that with Covid at the moment remote is very common.
 
