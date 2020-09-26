@@ -42,7 +42,7 @@ I'm a life-long learner, and so it's thrilling to take time right now to simply 
 
 ### Are you hiring?
 
-I might be of value to your organization if you're looking for the following: A developer who has skills in Python, Django, Django Rest Framework, some front-end capability, including HTML5, CSS3, and React, and a someone who has a deep love of both teaching and learning.  Additionally, through my years in the tourism industry I've learned to lead small teams, I'm very comfortable with hard work and have very good interpersonal skills from guiding high end clients for two decades.
+I might be of value to your organization if you're looking for the following: A developer who has skills in Python, Django, Django Rest Framework, some front-end capability, including HTML5, CSS3, and React (soon, I'm still learning basic React), and someone who has a deep love of both teaching and learning.  Additionally, through my years in the tourism industry I've learned to lead small teams, I'm very comfortable with hard work and have good interpersonal skills from guiding high end clients for two decades.
 
 
 [website]: https://sandcurves.com
