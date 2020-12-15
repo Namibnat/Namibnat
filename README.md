@@ -1,8 +1,8 @@
-### Hi, I'm Vernon, an aspiring Python/Django developer
+### Hi, I'm Vernon, an aspiring developer
 
-I've been a hobby programmer since my early childhood, coding with BASIC way back in the 80s, but thus far my career has always been in tourism, with a big focus on leading guiding teams and training guides in Namibia.  I recently resigned from [AndBeyond Sossusvlei Desert Lodge][sossus-desert-lodge], perhaps Namibias top lodge, where I have been working with the guiding team.
+I've been a hobby programmer since my early childhood, coding with BASIC way back in the 80s, but thus far my career has always been in tourism, with a big focus on leading guiding teams and training guides in Namibia.  I recently resigned from [AndBeyond Sossusvlei Desert Lodge][sossus-desert-lodge], perhaps Namibia's top lodge, where I have been working with the guiding team.
 
-Right now I'm working full time on developing my coding skills to the level where I can enter the industry as a software developer.  The reason I'm doing it now is due to Covid which shut down the tourism industry for a while in Namibia.  I've been wanting to make this transition for a long time, but my job has been all-consuming, working long hours with few breaks.  So, the lockdown was a gift to finally get down to learn deeply.
+Right now I'm working full time on developing my coding skills to the level where I can enter the industry as a software developer.  The reason I'm doing it now is due to Covid which shut down the tourism industry for a while in Namibia.  I've been wanting to make this transition for a long time, but my job has been all-consuming, working long hours with few breaks.  So, the lock down was a gift to finally get down to learn deeply.
 
 I'm planning to move to the UK (I'm British, at least by passport), where I'll stay with family until I find work.  My plan currently is to move around mid-October this year (2020), and hope to find work in the West Midlands area.
 
@@ -15,25 +15,23 @@ I'm a long time Linux enthusiast, currently running [Ubuntu][ubuntu], but I've s
 
 I love teaching, and I have taught beginner Python to various people over the years, and I'd love to do more of that going forward.
 
-I also enjoy math and so a long term goal is to improve my math skills and learn Python Data Science and related skills, but I've put that on hold for a while until I have a deep skillset to get me started in working with Python/Django on the web first.  
+I also enjoy math and so a long term goal is to improve my math skills and learn Python Data Science and related skills, but I've put that on hold for a while until I have a deep skill set to get me started in working with Python/Django on the web first.  
 
 I've had some involvement in developing Python in Namibia, and I'm still currently on the board of [Python Namibia][pynam], though my contributions have been way less than I would have hoped, mainly because my work has been rather intense in the last few years.
 
 
 ### What I'm working on:
 
-- I'm working on my own website, [sandcuves.com][website], where the main thing I'm doing now is adding a blog, the code of which you can find [here][simple-blog-code].
-- I'm building a demo [Tour Company Management App][tcma-code], which I'm building with Django Rest Framework and React as I learn them.
+- I'm working on my own website, [sandcurves.com][website], where the main thing I'm doing now is adding a blog, the code of which you can find [here][simple-blog-code].
 
 
 ### What I'm learning:
 
 I'm a life-long learner, and so it's thrilling to take time right now to simply focus 100% on learning the following:
 
-- [React][react] with [React - The Complete Guide (incl Hooks, React Router, Redux)][udemy-react].
-- [Django Rest Framework][django-rest-framework] with [The Complete Guide to Django REST Framework and Vue JS][udemy-drf].
-- Web Development brush-up with [The Complete 2020 Web Development Bootcamp][udemy-web-dev].
-- Algorithms, mainly through [algoexpert.io][algoexpert], which I'm finding really fun.
+- While I have some time my main focus right now is to brush up on my C development skills.  I'm also working
+on some Python projects, and various other things.
+
 
 
 ### Where you can find me:
