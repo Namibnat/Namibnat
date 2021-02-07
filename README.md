@@ -14,12 +14,11 @@ I enjoy working with  [Python][python].  I'm working on building up my skills in
 
 I'm a Linux enthusiast, currently running [Manjaro][manjaro].  I've also used [Ubuntu][ubuntu] and [Arch Linux][arch] often.  I've installing many distros to play around with them, and at one stage I did a whole [Linux From Scratch][LFS] build.
 
-I love teaching, and I have taught beginner Python to various people over the years, and I'd love to do more of that going forward.
+I love teaching, and I have taught beginner Python to various people over the years, and I'd love to do more of that.
 
-I also enjoy math and a long term goal is to improve my math skills and learn Python Data Science and related skills, but I've put that on hold for a while until I have a deep skill set to get me started in working with Python/Django on the web first.  
+I also enjoy math and a long term goal is to improve my math skills and learn Python Data Science and related skills.
 
-I've had some involvement in developing Python in Namibia, and I'm still currently on the board of [Python Namibia][pynam], though my contributions have been way less than I would have hoped, mainly because my work has been rather intense in the last few years.
-
+I was a board member of the [Python Namibia Society][pynam].
 
 ### What I'm working on:
 
