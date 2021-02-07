@@ -30,15 +30,17 @@ I was a board member of the [Python Namibia Society][pynam].
 
 ### What I'm learning:
 
-I'm a life-long learner, and so it's thrilling to take time right now to simply focus 100% on learning the following:
+I'm a life-long learner, and so it's thrilling to take time right now to focus 100% on learning the following:
 
-- While I have some time my main focus right now is to brush up on my JavaScript and web tech.
+- JavaScript
+- Django Rest Framework
+- React.js
 
 
 ### Where you can find me:
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter]
+**🏡 [website][website] |
+🐦 [twitter][twitter]**
 
 
 ### Are you hiring?
