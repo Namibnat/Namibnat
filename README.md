@@ -3,9 +3,9 @@
 I've been a hobby programmer since my early childhood.  I started coding with BASIC back in the 80s, but thus far my career has always been in tourism.  My work has focused on leading guiding teams and training guides in Namibia.  I recently resigned from 
 [AndBeyond Sossusvlei Desert Lodge][sossus-desert-lodge], Namibia's premier lodge.  I had been leading their guide teams.
 
-I'm working on my coding skills to the level where I can enter the industry as a software developer.  The reason I'm doing it now is due to Covid which shut down the tourism industry for a while in Namibia.  I've wanted to make this transition for a long time, but my job has been all-consuming in recent years.  So, the lock down was a gift to finally get down to learn deeply.
+I'm working on my coding skills to the level where I can enter the industry as a software developer.  The reason I'm doing it now is due to Covid which shut down the tourism industry for a while in Namibia.  I've wanted to make this transition for a long time, but my job has been all-consuming in recent years.  So, the lock down was a gift to finally get down to learn a lot more.
 
-I moved to the UK in mid-October.  I'm British, even though I lived most of my life in Africa.  My plan is to find work as a programmer in the West Midlands by mid-January.
+I moved to the UK in mid-October.  I'm British, even though I lived most of my life in Africa, so it was an easy move.  My plan is to find work as a developer, ideally remote, but I'd like to be based in the West Midlands.  If you're after someone like me, please get [in touch][website].
 
 
 ### What I do:
@@ -48,7 +48,7 @@ If you happen to be in the West Midlands area, and you're looking for a Django d
 What I'm looking for:  A Python/Django job.  A chance to enter a team that's working on interesting things, where growth is valued and supported.  Ideally not remote, because, though quiet, I'm VERY MUCH a people person, though I know that with Covid at the moment remote is very common.
 
 
-[website]: https://sandcurves.com
+[website]: https://vernon-swanepoel.me/
 [twitter]: https://twitter.com/sandcurves
 [react]: http://reactjs.org
 [algoexpert]: https://www.algoexpert.io/
