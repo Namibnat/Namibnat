@@ -12,7 +12,7 @@ I moved to the UK in mid-October.  I'm British, even though I lived most of my l
 
 I enjoy working with  [Python][python].  I'm working on building up my skills in [Django][django] and related technologies. My goal is to work as a back-end or full-stack developer in the UK, within the next couple months. I've built some websites using Django over the years.  Though the only one that's still online is my own website: [vernon-swanepoel.me][website].
 
-I'm a long time Linux enthusiast, currently running [Manjaro][manjaro], though I've also used [Ubuntu][ubuntu] and [Arch Linux][arch], as well as installing many distros just to play around with them, and at one stage I did a whole [Linux From Scratch][LFS] build.
+I'm a Linux enthusiast, currently running [Manjaro][manjaro].  I've also used [Ubuntu][ubuntu] and [Arch Linux][arch] often.  I've installing many distros to play around with them, and at one stage I did a whole [Linux From Scratch][LFS] build.
 
 I love teaching, and I have taught beginner Python to various people over the years, and I'd love to do more of that going forward.
 
