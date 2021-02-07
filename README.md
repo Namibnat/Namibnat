@@ -23,8 +23,11 @@ I've had some involvement in developing Python in Namibia, and I'm still current
 
 ### What I'm working on:
 
-- I'm working on my own website, [vernon-swanepoel.me][website], where I'm also adding a few projects.
-
+- I'm working on my own website, [vernon-swanepoel.me][website].
+- I recently completed a small JavaScript [Date Picker][Date Picker].
+- I'm building demo app that [tracks recruits][Recruit App] across several teams with a Django Backend.
+- I have a more long term project using Django and React together as a personal Productivity app, [Your Routines and Projects][YRAP].
+- I have a more 'fun' project that I work on from time to time where I'm trying to build a C compiler [Spheniscidaecc][spheniscidaecc].  This project isn't really a demo project, but rather more of a fun side project of my own.  Why the name?  Well, I'm an avid nature enthusiast, and a big part of that is birding.  And I think some of the strangest birds are [Penguins][Penguin].  Additionally, the Linux mascot is a penguin.  Lastly, my long term goal is to bring together my love of coding and my concern for the natural world, and Penguins nicely symoblize the issues of global warming.
 
 ### What I'm learning:
 
@@ -64,5 +67,9 @@ What I'm looking for:  A Python/Django job.  A chance to enter a team that's wor
 [LFS]: http://www.linuxfromscratch.org/
 [simple-blog-code]: https://github.com/Namibnat/simpleblog
 [tcma-code]: https://github.com/Namibnat/tcma
+[Recruit App]: https://github.com/Namibnat/recruit
+[YRAP]: https://github.com/Namibnat/yrap
+[Date Picker]: https://github.com/Namibnat/date-picker
+[spheniscidaecc]: https://github.com/Namibnat/spheniscidaecc
 [pynam]: https://pynamibia.herokuapp.com/about/
-
+[Penguin][https://en.wikipedia.org/wiki/Penguin]
