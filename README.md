@@ -73,4 +73,4 @@ What I'm looking for:  A Python/Django job.  A chance to enter a team that's wor
 [Date Picker]: https://github.com/Namibnat/date-picker
 [spheniscidaecc]: https://github.com/Namibnat/spheniscidaecc
 [pynam]: https://pynamibia.herokuapp.com/about/
-[Penguin][https://en.wikipedia.org/wiki/Penguin]
+[Penguin]: https://en.wikipedia.org/wiki/Penguin
