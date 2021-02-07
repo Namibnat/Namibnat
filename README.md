@@ -26,15 +26,14 @@ I've had some involvement in developing Python in Namibia, and I'm still current
 - I'm working on my own website, [vernon-swanepoel.me][website].
 - I recently completed a small JavaScript [Date Picker][Date Picker].
 - I'm building demo app that [tracks recruits][Recruit App] across several teams with a Django Backend.
-- I have a more long term project using Django and React together as a personal Productivity app, [Your Routines and Projects][YRAP].
-- I have a more 'fun' project that I work on from time to time where I'm trying to build a C compiler [Spheniscidaecc][spheniscidaecc].  This project isn't really a demo project, but rather more of a fun side project of my own.  Why the name?  Well, I'm an avid nature enthusiast, and a big part of that is birding.  And I think some of the strangest birds are [Penguins][Penguin].  Additionally, the Linux mascot is a penguin.  Lastly, my long term goal is to bring together my love of coding and my concern for the natural world, and Penguins nicely symoblize the issues of global warming.
+- A productivity app project, using Django and React: [Your Routines and Projects][YRAP].
+- I have a 'fun' project that I work on from time to time where I'm trying to build a C compiler called [Spheniscidaecc][spheniscidaecc]. This project isn't a demo project, but rather more of a fun side project of my own. Why the name? Well, I'm an avid nature enthusiast, and a big part of that is birding. And some of the strangest birds are [Penguins][Penguin]. Additionally, the Linux mascot is a penguin. Lastly, my long term goal is to bring together my love of coding and my concern for the natural world. Penguins symbolize the issues of global warming to me.
 
 ### What I'm learning:
 
 I'm a life-long learner, and so it's thrilling to take time right now to simply focus 100% on learning the following:
 
 - While I have some time my main focus right now is to brush up on my JavaScript and web tech.
-
 
 
 ### Where you can find me:
