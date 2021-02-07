@@ -10,28 +10,27 @@ I moved to the UK in mid-October.  I'm British, even though I lived most of my l
 
 ### What I do:
 
-I enjoy working with [Python][python] and I'm working on building up my skills in [Django][django] and related technologies with the hope of working as a back-end or full-stack developer in the UK, within the next couple months.  I've built a number of websites using Django over the years, though the only one that's still online is my own website: [sandcurves.com][website]
+I enjoy working with [Python][python] and I'm working on building up my skills in [Django][django] and related technologies with the hope of working as a back-end or full-stack developer in the UK, within the next couple months.  I've built a number of websites using Django over the years, though the only one that's still online is my own website: [vernon-swanepoel.me][website]
 
 I'm a long time Linux enthusiast, currently running [Ubuntu][ubuntu], but I've spent a lot of time using [Arch Linux][arch], as well as installing many distros just to play around with them, and at one stage I did a whole [Linux From Scratch][LFS] build.
 
 I love teaching, and I have taught beginner Python to various people over the years, and I'd love to do more of that going forward.
 
-I also enjoy math and so a long term goal is to improve my math skills and learn Python Data Science and related skills, but I've put that on hold for a while until I have a deep skill set to get me started in working with Python/Django on the web first.  
+I also enjoy math and a long term goal is to improve my math skills and learn Python Data Science and related skills, but I've put that on hold for a while until I have a deep skill set to get me started in working with Python/Django on the web first.  
 
 I've had some involvement in developing Python in Namibia, and I'm still currently on the board of [Python Namibia][pynam], though my contributions have been way less than I would have hoped, mainly because my work has been rather intense in the last few years.
 
 
 ### What I'm working on:
 
-- I'm working on my own website, [sandcurves.com][website], where the main thing I'm doing now is adding a blog, the code of which you can find [here][simple-blog-code].
+- I'm working on my own website, [vernon-swanepoel.me][website], where I'm also adding a few projects.
 
 
 ### What I'm learning:
 
 I'm a life-long learner, and so it's thrilling to take time right now to simply focus 100% on learning the following:
 
-- While I have some time my main focus right now is to brush up on my C development skills.  I'm also working
-on some Python projects, and various other things.
+- While I have some time my main focus right now is to brush up on my JavaScript and web tech.
 
 
 
