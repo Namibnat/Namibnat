@@ -1,7 +1,7 @@
 ### Hi, I'm Vernon, an aspiring developer
 
 I've been a hobby programmer since my early childhood.  I started coding with BASIC back in the 80s, but thus far my career has always been in tourism.  My work has focused on leading guiding teams and training guides in Namibia.  I recently resigned from 
-[AndBeyond Sossusvlei Desert Lodge][sossus-desert-lodge], Namibia's premier lodge.  I had been leading their guide teams.
+[AndBeyond Sossusvlei Desert Lodge][sossus-desert-lodge], Namibia's premier lodge.  I was leading their guide teams until I left.
 
 I'm working on my coding skills to the level where I can enter the industry as a software developer.  The reason I'm doing it now is due to Covid which shut down the tourism industry for a while in Namibia.  I've wanted to make this transition for a long time, but my job has been all-consuming in recent years.  So, the lock down was a gift to finally get down to learn a lot more.
 
