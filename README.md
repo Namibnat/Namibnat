@@ -12,7 +12,7 @@ I moved to the UK in mid-October.  I'm British, even though I lived most of my l
 
 I enjoy working with [Python][python] and I'm working on building up my skills in [Django][django] and related technologies with the hope of working as a back-end or full-stack developer in the UK, within the next couple months.  I've built a number of websites using Django over the years, though the only one that's still online is my own website: [vernon-swanepoel.me][website]
 
-I'm a long time Linux enthusiast, currently running [Ubuntu][ubuntu], but I've spent a lot of time using [Arch Linux][arch], as well as installing many distros just to play around with them, and at one stage I did a whole [Linux From Scratch][LFS] build.
+I'm a long time Linux enthusiast, currently running [Manjaro][manjaro], though I've also used [Ubuntu][ubuntu] and [Arch Linux][arch], as well as installing many distros just to play around with them, and at one stage I did a whole [Linux From Scratch][LFS] build.
 
 I love teaching, and I have taught beginner Python to various people over the years, and I'd love to do more of that going forward.
 
@@ -63,6 +63,7 @@ What I'm looking for:  A Python/Django job.  A chance to enter a team that's wor
 [sossus-desert-lodge]: https://www.andbeyond.com/our-lodges/africa/namibia/sossusvlei-desert/andbeyond-sossusvlei-desert-lodge/
 [vim]: https://www.vim.org/
 [arch]: https://www.archlinux.org/
+[manjaro]: https://manjaro.org/
 [ubuntu]: https://ubuntu.com/
 [LFS]: http://www.linuxfromscratch.org/
 [simple-blog-code]: https://github.com/Namibnat/simpleblog
