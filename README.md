@@ -68,19 +68,33 @@ Before I get there, I’m studying a few relevant fields that I hope will help m
 This  is what I’m studying now:
 
 +-----------------------+------------------------------------------------------------------------------------+
+
 | SQL                   | currently I'm doing the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/    |
+
 +-----------------------+------------------------------------------------------------------------------------+
+
 | Stats                 | currently reading "The Art of Statistics" (David Spiegelhalter) book.              |
+
 +-----------------------+------------------------------------------------------------------------------------+
+
 | Machine Learning      | currently working through "Deep Learning for coders with fastai and pytorch" book. |
+
 +-----------------------+------------------------------------------------------------------------------------+
+
 | Probability           | currently reading "Probability For The Enthusiastic Beginners" (David Morin) Book. |
+
 +-----------------------+------------------------------------------------------------------------------------+
+
 | Linear Algebra        | "Introduction to Applied Linear Algebra"                                           |
+
 +-----------------------+------------------------------------------------------------------------------------+
+
 | Precalculus           | "https://www.khanacademy.org/math/precalculus"                                     |
+
 +-----------------------+------------------------------------------------------------------------------------+
+
 | Google Data Analytics | "https://www.coursera.org/professional-certificates/google-data-analytics"         |
+
 +-----------------------+------------------------------------------------------------------------------------+
 
 
