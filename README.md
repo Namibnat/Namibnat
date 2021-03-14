@@ -64,19 +64,14 @@ My plan is to start with a degree program from the Open University.  Bsc (honour
 
 Before I get there, I’m studying a few relevant fields that I hope will help me both in getting my course work done, and to give me an advantage in taking this in the direction that i’d like to.
 
-Testing:
-
-	| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
 
 
 This  is what I’m studying now:
 
-+-----------------------+------------------------------------------------------------------------------------+
-
-| SQL                   | currently I'm doing the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/    |
+| Subject | Resource |
+| ----: | -----: |
+| SQL   | currently I'm doing the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/  |
+| ----: | -----: |
 
 +-----------------------+------------------------------------------------------------------------------------+
 
