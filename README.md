@@ -1,16 +1,20 @@
-### Hi, I'm Vernon, an aspiring developer
+### Hi, I'm Vernon
 
 I've been a hobby programmer since my early childhood.  I started coding with BASIC back in the 80s, but thus far my career has always been in tourism.  My work has focused on leading guiding teams and training guides in Namibia.  I recently resigned from 
 [AndBeyond Sossusvlei Desert Lodge][sossus-desert-lodge], Namibia's premier lodge.  I was leading their guide teams until I left.
 
-I'm working on my coding skills to the level where I can enter the industry as a software developer.  The reason I'm doing it now is due to Covid which shut down the tourism industry for a while in Namibia.  I've wanted to make this transition for a long time, but my job has been all-consuming in recent years.  So, the lock down was a gift to finally get down to learn a lot more.
+The Covid pandemic had a massive impact on tourism in Namibia.  When our lodge shut down, I decided to start to work full time on skills that were of interest to me.  To a large extend this meant code.
 
-I moved to the UK in mid-October.  I'm British, even though I lived most of my life in Africa, so it was an easy move.  My plan is to find work as a developer, ideally remote, but I'd like to be based in the West Midlands.  If you're after someone like me, please get [in touch][website].
+After the initial lockdown, I did go and work at the lodge again, but resigned later in 2020.  From then on, I have been working full time on developing these interests.
+
+I moved to the UK in mid-October.  I'm British, even though I lived most of my life in Africa, so it was an easy move.
+
+My current plan is to get a job as a developer or data analyst, but then to keep on learning, hopefully to the point that I can get a degree some time in my early 50s.  The dream is to work all the way to a doctrate in some way, relating to math, the environment and code.  Hopefully before I'm 60.  Lets see.
 
 
 ### What I do:
 
-I enjoy working with  [Python][python].  I'm working on building up my skills in [Django][django] and related technologies. My goal is to work as a back-end or full-stack developer in the UK, within the next couple months. I've built some websites using Django over the years.  Though the only one that's still online is my own website: [vernon-swanepoel.me][website].
+I enjoy working with  [Python][python].  I've got a good grasp of [Django][django].  The area I'm most interested in right now is more the data analytics side, and I've got some basic Python Data Science understanding.
 
 I'm a Linux enthusiast, currently running [Manjaro][manjaro].  I've also used [Ubuntu][ubuntu] and [Arch Linux][arch] often.  I've installing many distros to play around with them, and at one stage I did a whole [Linux From Scratch][LFS] build.
 
@@ -18,23 +22,22 @@ I love teaching, and I have taught beginner Python to various people over the ye
 
 I also enjoy math and a long term goal is to improve my math skills and learn Python Data Science and related skills.
 
-I was a board member of the [Python Namibia Society][pynam].
+I was a founding board member of the [Python Namibia Society][pynam].
+
+I am not a Python purest, and enjoy tinkering with other languages.  I was very interested in C some time back, and always think I might get back into it at some point.
+
 
 ### What I'm working on:
 
-- I'm working on my own website, [vernon-swanepoel.me][website].
-- I recently completed a small JavaScript [Date Picker][Date Picker].
-- I'm building demo app that [tracks recruits][Recruit App] across several teams with a Django Backend.
-- A productivity app project, using Django and React: [Your Routines and Projects][YRAP].
-- I have a 'fun' project that I work on from time to time where I'm trying to build a C compiler called [Spheniscidaecc][spheniscidaecc]. This project isn't a demo project, but rather more of a fun side project of my own. Why the name? Well, I'm an avid nature enthusiast, and a big part of that is birding. And some of the strangest birds are [Penguins][Penguin]. Additionally, the Linux mascot is a penguin. Lastly, my long term goal is to bring together my love of coding and my concern for the natural world. Penguins symbolize the issues of global warming to me.
+Here is what I'm studying right now:
 
-### What I'm learning:
+- SQL - I have a grasp of the basics, but I know that SQL is very important and I'm trying to take my SQL skills to proficiency.
+- Precalculus on Khan Academy - At school I did very well at math, and it's always remained an interest.  I've tried to teach myself Calculus in the past, but I want to brush up on fundamentals before I jump into it again.  I'm doing about 30 minutes of this most days of the week, and hopefully I'll just carry on into Calculus 1 on Khan Academy by the end of the year.
+- Linear Algebra - Although this is a more 'advanced' topic, I'm finding it interesting, and useful to some of what I'd like to do going forward.
+- Statistics - I'm also just doing a little bit of statistics each day, on a very basic level.  But stats are useful not only to my coding, but for reading scientific papers as well.
+- Data Analytics - I'm currently working through the new Coursera "Google Data Analytics" Professional Certificate by Google.  This takes up a few hours each day right now, so hopefully I can get through most of it before I start working again.
 
-I'm a life-long learner, and so it's thrilling to take time right now to focus 100% on learning the following:
 
-- JavaScript
-- Django Rest Framework
-- React.js
 
 
 ### Where you can find me:
@@ -43,24 +46,20 @@ I'm a life-long learner, and so it's thrilling to take time right now to focus 1
 🐦 [twitter][twitter]**
 
 
+
 ### Are you hiring?
 
-If you happen to be in the West Midlands area, and you're looking for a Django developer, **I might be of value to your organization if** you're looking for the following: A developer who has skills in **Python**, **Django**, **Django Rest Framework**, **some front-end capability**, including HTML5, CSS3, and **React** (soon, I'm still learning basic React), and someone who has a deep love of both **teaching** and **learning**.  
-
+I'm looking for work, and ideally I'd love to work as a **data analyst** or some related role.  I have some basic website skills as well.  In the long run, if the job involves conservation or even green tech, that would be a dream.  I did about 90% of the [Udemy Web Development Bootcamp][udemy-web-dev] at the start of the year.
 
 Through my years in the tourism industry I've learned **leadership** and simple hard work.  I've managed small teams and worked with high-end clientele.
 
-What I'm looking for:  A Python/Django remote job.  A chance to enter a team that's working on interesting things, where growth is valued and supported.
 
 
 [website]: https://vernon-swanepoel.me/
 [twitter]: https://twitter.com/sandcurves
-[react]: http://reactjs.org
-[algoexpert]: https://www.algoexpert.io/
 [django-rest-framework]: https://www.django-rest-framework.org/
 [django]: https://www.djangoproject.com/
 [udemy-drf]: https://www.udemy.com/course/the-complete-guide-to-django-rest-framework-and-vue-js/
-[udemy-react]: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 [udemy-web-dev]: https://www.udemy.com/course/the-complete-web-development-bootcamp/
 [python]: https://www.python.org/
 [sossus-desert-lodge]: https://www.andbeyond.com/our-lodges/africa/namibia/sossusvlei-desert/andbeyond-sossusvlei-desert-lodge/
