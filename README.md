@@ -26,19 +26,6 @@ I was a founding board member of the [Python Namibia Society][pynam].
 
 I am not a Python purest, and enjoy tinkering with other languages.  I was very interested in C some time back, and always think I might get back into it at some point.
 
-
-### What I'm working on:
-
-Here is what I'm studying right now:
-
-- SQL - I have a grasp of the basics, but I know that SQL is very important and I'm trying to take my SQL skills to proficiency.
-- Precalculus on Khan Academy - At school I did very well at math, and it's always remained an interest.  I've tried to teach myself Calculus in the past, but I want to brush up on fundamentals before I jump into it again.  I'm doing about 30 minutes of this most days of the week, and hopefully I'll just carry on into Calculus 1 on Khan Academy by the end of the year.
-- Linear Algebra - Although this is a more 'advanced' topic, I'm finding it interesting, and useful to some of what I'd like to do going forward.
-- Statistics - I'm also just doing a little bit of statistics each day, on a very basic level.  But stats are useful not only to my coding, but for reading scientific papers as well.
-- Data Analytics - I'm currently working through the new Coursera "Google Data Analytics" Professional Certificate by Google.  This takes up a few hours each day right now, so hopefully I can get through most of it before I start working again.
-- I'm slowly working on learning Machine Learning, currently working through the book "Deep Learning for Coders" by Jeremy Howard and Sylvain Gugger.
-
-
 ### What is my long term dream?
 
 
