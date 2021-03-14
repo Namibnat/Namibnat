@@ -36,6 +36,7 @@ Here is what I'm studying right now:
 - Linear Algebra - Although this is a more 'advanced' topic, I'm finding it interesting, and useful to some of what I'd like to do going forward.
 - Statistics - I'm also just doing a little bit of statistics each day, on a very basic level.  But stats are useful not only to my coding, but for reading scientific papers as well.
 - Data Analytics - I'm currently working through the new Coursera "Google Data Analytics" Professional Certificate by Google.  This takes up a few hours each day right now, so hopefully I can get through most of it before I start working again.
+- I'm slowly working on learning Machine Learning, currently working through the book "Deep Learning for Coders" by Jeremy Howard and Sylvain Gugger.
 
 
 
