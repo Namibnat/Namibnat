@@ -38,7 +38,7 @@ As a hobby right now, I'm learning low-level C, and trying, very slowly, to lear
 🐦 [twitter][twitter]**
 
 
-[website]: https://yrap.co.uk/
+[website]: https://sandcurves.co.uk/
 [twitter]: https://twitter.com/sandcurves
 [django]: https://www.djangoproject.com/
 [python]: https://www.python.org/
