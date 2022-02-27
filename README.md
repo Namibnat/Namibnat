@@ -1,6 +1,9 @@
 ### Hi, I'm Vernon
 
-I've been a hobby programmer since my early childhood.  I started coding with BASIC back in the 80s, but up until
+
+I'm a dedicated software developer.  I love working in Python, but I have a range of other skills.  My Python skills include Django, Flask, and working with APIs.  These skills include HTML, CSS, and JavaScript.  I'm comfortable working with Git and Github, in teams and alone.  I know docker and docker-compose.  In my career, I have often been in leadership and training roles.  I enjoy especially enjoy chances to conduct training.  I'm an autodidact.
+
+I was a hobby programmer since my early childhood.  I started coding with BASIC back in the 80s, but up until
 2020, my career has been in tourism.  My work focused on leading guiding teams and training guides in Namibia.  
 In the middle ov 2020, I resigned from [AndBeyond Sossusvlei Desert Lodge][sossus-desert-lodge], Namibia's premier lodge.  I was leading their guide teams until I left.
 
@@ -8,7 +11,7 @@ The Covid pandemic had a massive impact on tourism in Namibia.  When our lodge s
 
 I moved to the UK in mid-October 2020.  I'm British, even though I lived most of my life in Africa, so it was an easy move.
 
-After spending time studying, I managed to land a job as a developer in April 2021 with [Octophindigital][octophin] as a
+After spending time studying, I started work as a developer in early 2021 with [Octophindigital][octophin] as a
 developer.  I've mostly worked in Python, though I've also had to learn some PHP.  The company has a strong focus on
 nature conservation, which has made them a wonderful fit for me.
 
@@ -20,7 +23,7 @@ nature conservation.  I'm learning Spanish at the moment, very slowly, with some
 
 I enjoy working with  [Python][python].  I've got a good grasp of [Django][django] and [Flask][flask].
 
-I'm a Linux enthusiast, currently running [Manjaro][manjaro].  I've also used [Ubuntu][ubuntu] and [Arch Linux][arch] often.  I've installing many distros to play around with them, and at one stage I did a whole [Linux From Scratch][LFS] build.
+I'm a Linux enthusiast.  I've also used [Ubuntu][ubuntu] and [Arch Linux][arch] often.  I've installing many distros to play around with them, and at one stage I did a whole [Linux From Scratch][LFS] build.
 I also use a Mac for work.
 
 I love teaching, and I have taught beginner Python to various people over the years, and I'd love to do more of that.
@@ -44,7 +47,6 @@ As a hobby right now, I'm learning low-level C, and trying, very slowly, to lear
 [python]: https://www.python.org/
 [sossus-desert-lodge]: https://www.andbeyond.com/our-lodges/africa/namibia/sossusvlei-desert/andbeyond-sossusvlei-desert-lodge/
 [arch]: https://www.archlinux.org/
-[manjaro]: https://manjaro.org/
 [ubuntu]: https://ubuntu.com/
 [LFS]: http://www.linuxfromscratch.org/
 [YRAP]: https://github.com/Namibnat/yrap
