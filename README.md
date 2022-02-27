@@ -1,7 +1,7 @@
 ### Hi, I'm Vernon
 
 
-I'm a dedicated software developer.  I love working in Python, but I have a range of other skills.  My Python skills include Django, Flask, and working with APIs.  These skills include HTML, CSS, and JavaScript.  I'm comfortable working with Git and Github, in teams and alone.  I know docker and docker-compose.  In my career, I have often been in leadership and training roles.  I enjoy especially enjoy chances to conduct training.  I'm an autodidact.
+I'm a dedicated software developer.  I love working in Python, but I have a range of other skills.  My Python skills include Django, Flask, and working with APIs.  These skills include HTML, CSS, and JavaScript.  I'm comfortable working with Git and Github, in teams and alone.  I know docker and docker-compose.  In my career, I have often been in leadership and training roles.  I especially enjoy chances to conduct training.  I'm an autodidact.
 
 I was a hobby programmer since my early childhood.  I started coding with BASIC back in the 80s, but up until
 2020, my career has been in tourism.  My work focused on leading guiding teams and training guides in Namibia.  
