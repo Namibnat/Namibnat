@@ -32,6 +32,15 @@ I was a founding board member of the [Python Namibia Society][pynam].  I'm still
 
 Although I love working in Python, and enjoy tinkering with other languages.  I was very interested in C some time back, and always think I might get back into it at some point.  Kotlin is another language that looks interesting, and I've started to learn the very basics.
 
+Non-coding interests:
+
+- Ecology: I studied nature conservation, and I've always been interested in nature.  I have always enjoyed learning some of the more scientific aspects of ecology.  I'm certainly best at desert ecology, and I've got a good grasp as to how deserts work.
+- Birds and birding: I've not only been a 'ticker', but I've learned a great deal about birds, and I've participated in bird counts and other related activities.  I have lead some birding tours, though I wouldn't consider myself an especially good birder.  I keen enthusiast.
+- Fitness and health.  I like walking and cycling, and working out generally.  I eat a very disciplined, healthy diet (as best as I can understand the science and my own body).
+- Current world affairs.  When I've got time I'm not only a news junky, but I love to learn the background to why things that are going on got going, and often get involved in some small ways to try to make things better where that's possible.  There's to much to fix, but I try to do my bit.
+- Teaching, coaching, leading, public speaking.  I'm not an expert in anything, but I love sharing and helping others grow in whatever ways I can.
+
+
 
 ### My Github repositories:
 
