@@ -53,7 +53,7 @@ If you're in search of a developer who brings a blend of technical prowess, a pa
 ### Where you can find me:
 
 **🏡 [website][website] (I'm currently building it as I get time) |
-🐦 [twitter][twitter]**
+🐦 [twitter][twitter] | [LinkedIn][linkedin]**
 
 [website]: https://natureblog.co.uk/
 [twitter]: https://twitter.com/sandcurves
@@ -72,3 +72,4 @@ If you're in search of a developer who brings a blend of technical prowess, a pa
 [react]: https://react.dev/
 [filespin]: https://filespin.io/
 [intouch]: https://www.mfortune.co.uk/intouch-games/
+[linkedin]: https://www.linkedin.com/in/namibnat/
