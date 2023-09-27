@@ -42,30 +42,13 @@ A particular repository that holds a special place in my heart is a sudoku solve
 
 To Recruiters and Potential Employers: While I cherish every repository as a milestone in my coding journey, I recommend focusing on my most recent projects for a professional evaluation. These represent my current skills and standards. The older ones? They're a testament to my passion, perseverance, and the joy I find in coding.
 
-### Hire me:
+### 🌟 Hire me:
 
-I've loved getting my foot in the door as a software developer. In the early part of 2020, with the outbreak of Covid, I found myself with time on my hands, after what had been the most incredibly
-busy few years of my life. So I jumped into coding again.
+I'm a full-stack developer with a rich tapestry of experiences that range from the deserts of Namibia to the digital landscapes of Python, Django, and React. My coding journey is fueled by passion, curiosity, and a commitment to continuous learning. While my GitHub repositories showcase my evolution as a developer, my recent projects reflect my current expertise and dedication to crafting efficient, scalable solutions.
 
-When I arrived in the UK, I carried on with my training, and then started to look for work as lock-downs eased at the start of 2021.
+Beyond coding, my background in nature conservation, guiding, and leadership has instilled in me a unique perspective, strong problem-solving skills, and an ability to connect with diverse teams and clients. I'm not just looking for a job; I'm seeking a role where I can merge my love for technology with my commitment to making a positive impact.
 
-What I would bring to a team:
-
-- I have a good grasp of Python and I'm very comfortable in Linux environments. My strongest subjects at school were always maths, and I think this mathematical mindset helps me in the code I write.
-- I love things being organized. I love writing clean, tested code, and want to get better at it.
-- I love learning. I'll gladly learn your tech-stack. I'm happy to get feedback and learn from it.
-- I love people. I'm quiet, but I'm very much a people-person.
-- I'm dedicated and very hard working. Easy to say, of course.
-- If the job fits me well, I'm keen to stay with a team and help it grow.
-
-This is what I'd ideally like as work:
-
-- Location: Either in Birmingham, a nearby commute or remote.
-- Programming language: I've love to work with Python, but I love learning, and I'm happy to jump into anything else.
-- Values: I take my own values very seriously, and I would only want to work for a company where things like diversity, inclusion... general liberal values, are important.
-- "Tech for good": I want my work to matter. Conservation has been a big priority in my life, and still is. But I'm open to any position where what I do helps make the world a better place.
-- A chance to lead down the line. I have long worked in leadership in some way or another, and I'd love to work in a team big enough that down the line I can find myself in some form of leadership.
-- Benefits and salary: I'd love to earn somewhere around 40K right now, more would be better, of course. I'm not that concerned about other benefits, but if the team I work with are happy, I'm happy, so the main value of other benefits that I see are ones that promote a team that loves to be there. Where people are proud of where they work and happy to be there.
+If you're in search of a developer who brings a blend of technical prowess, a passion for nature, and a history of leadership and training, let's chat! Whether it's building tech-for-good solutions or innovating in the digital space, I'm ready for the next adventure.
 
 ### Where you can find me:
 
