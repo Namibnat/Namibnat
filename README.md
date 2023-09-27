@@ -16,24 +16,18 @@ I'm always open to collaborating on projects, especially those aligned with tech
 
 ### Stuff I'm into:
 
-I enjoy working with [Python][python]. I've got a good grasp of [Django][django] and [Flask][flask].
+🔧 Technical Interests:
 
-I'm a Linux enthusiast. I've also used [Ubuntu][ubuntu] and [Arch Linux][arch] often. I've installing many distros to play around with them, and at one stage I did a whole [Linux From Scratch][LFS] build.
-I also use a Mac for work.
+Languages & Frameworks: Proficient in [Python][python], [Django][django], [Flask][flask], and [React][react]. Curious about C and Kotlin.
+Operating Systems: A Linux enthusiast with experience in [Ubuntu][ubuntu], [Arch Linux][arch], and [Linux From Scratch][LFS]. Also familiar with macOS.
+Community Involvement: Founding board member of the [Python Namibia Society][pynam]. Passionate about teaching Python to beginners.
+🌍 Non-Coding Interests:
 
-I love teaching, and I have taught beginner Python to various people over the years, and I'd love to do more of that.
-
-I was a founding board member of the [Python Namibia Society][pynam]. Until recently, I was still an active board member.
-
-Although I love working in Python, and enjoy tinkering with other languages. I was very interested in C some time back, and always think I might get back into it at some point. Kotlin is another language that looks interesting, and I've started to learn the very basics.
-
-Non-coding interests:
-
-- Ecology: I studied nature conservation, and I've always been interested in nature. I have always enjoyed learning some of the more scientific aspects of ecology. I'm certainly best at desert ecology, and I've got a good grasp as to how deserts work.
-- Birds and birding: I've not only been a 'ticker', but I've learned a great deal about birds, and I've participated in bird counts and other related activities. I have lead some birding tours, though I wouldn't consider myself an especially good birder. I keen enthusiast.
-- Fitness and health. I like walking and cycling, and working out generally. I eat a very disciplined, healthy diet (as best as I can understand the science and my own body).
-- Current world affairs. When I've got time I'm not only a news junky, but I love to learn the background to why things that are going on got going, and often get involved in some small ways to try to make things better where that's possible. There's to much to fix, but I try to do my bit.
-- Teaching, coaching, leading, public speaking. I'm not an expert in anything, but I love sharing and helping others grow in whatever ways I can.
+Ecology: Studied nature conservation with a special interest in desert ecology.
+Birding: Active in bird counts, birding tours, and general birdwatching.
+Fitness & Health: Enjoys walking, cycling, and maintaining a healthy diet.
+Current Affairs: Keen on understanding global events and their backgrounds. Actively involved in making positive changes.
+Personal Growth: Passionate about teaching, coaching, leading, and public speaking.
 
 ### My Github repositories:
 
@@ -85,3 +79,4 @@ This is what I'd ideally like as work:
 [eliana]: https://www.italki.com/en/teacher/9957678
 [italki]: https://www.italki.com/
 [refold]: https://refold.la/
+[react]: https://react.dev/
