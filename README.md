@@ -1,20 +1,18 @@
 ### Hi, I'm Vernon
 
-🌱 I'm a full-stack developer with a deep passion for Python, Django, and React. I've built scalable web applications and have a diverse skill set that includes:
+🌱 I'm a full-stack developer with a fervor for Python, Django, and React. My journey in tech is enriched by my diverse experiences, from building scalable web applications to mentoring budding developers and guiding teams in the vast Namibian desert.
 
-Languages: Python, JavaScript, PHP, HTML, CSS
-Frameworks: Django, Flask
-Tools: Git, GitHub, Docker, Docker-compose
+Languages & Tools: Python, JavaScript, PHP, HTML, CSS, Django, Flask, Git, GitHub, Docker, Docker-compose.
 
-🌌 Beyond coding, I'm deeply passionate about nature conservation, cycling, birding, astronomy, and languages. Currently, I'm immersing myself in learning Spanish, following the [Refold][refold] methodology with my wonderful teacher [Eliana][eliana] from [Italki][italki].
+📚 My passion for mentorship and education runs deep. From assisting in building schools in northern Kenya during my youth to teaching Python to kids and professionals alike, I've always been drawn to sharing knowledge. I've had the privilege of mentoring over 100 individuals, and the joy of seeing them grow is unparalleled.
 
-🌵 My journey into tech is a bit unconventional. I've been a hobby programmer since the 80s, starting with BASIC. However, until 2020, my career was rooted in tourism, leading guiding teams and training guides in Namibia, most recently at [AndBeyond Sossusvlei Desert Lodge][sossus-desert-lodge]. The pivot to tech was driven by my innate curiosity and the global shifts brought about by the pandemic.
+🌌 Beyond the code, I'm deeply invested in nature conservation, cycling, birding, astronomy, and languages. Currently, I'm diving into Spanish, guided by the [Refold][refold] methodology and my dedicated teacher [Eliana][eliana] from [Italki][italki].
 
-🇬🇧 After moving to the UK in 2020, I began my professional tech journey with [Octophindigital][octophin], where the company's focus on nature conservation resonated with my personal values. After a year there,
-I was hired on for a three month stint at [Filespin][filespin]. For the past year I've been honing my tech skills at [InTouch Games][intouch] where I'm still working. Although my work at InTouch has
-been a wonderful opportunity to learn to program very well in Python, I'm looking forward to moving onto a role that better aligns with my values.
+🌵 My transition to tech, though unconventional, is a testament to my adaptability and drive. Starting as a hobby programmer with BASIC in the 80s, I later led guiding teams and trained guides in Namibia, particularly at [AndBeyond Sossusvlei Desert Lodge][sossus-desert-lodge]. The pandemic prompted a pivot, and I embraced the tech world with open arms.
 
-I'm always open to collaborating on projects, especially those aligned with tech-for-good. Let's connect!
+🇬🇧 Post relocating to the UK in 2020, I embarked on my professional tech journey with [Octophindigital][octophin], followed by roles at [Filespin][filespin] and [InTouch Games][intouch]. While I've honed my skills at these places, I'm eager to align my career with my core values.
+
+If you're passionate about tech-for-good or looking for a mentor in the tech space, I'd love to connect and collaborate!
 
 ### Stuff I'm into:
 
