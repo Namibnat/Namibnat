@@ -41,7 +41,7 @@ Birding: Active in bird counts, birding tours, and general birdwatching.
 Fitness & Health: Enjoys walking, cycling, and maintaining a healthy diet.
 Current Affairs: Keen on understanding global events and their backgrounds. Actively involved in making positive changes.
 Personal Growth: Passionate about teaching, coaching, leading, and public speaking.
-Youtube: I have a [Youtube channel][youtubechannel] where I share anything about my interests.G
+Youtube: I have a [Youtube channel][youtubechannel] where I share anything about my interests.
 
 
 ### My Github repositories:
