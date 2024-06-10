@@ -65,16 +65,14 @@ Currently I'm not looking for a job, but if you're interested, these are the thi
 * The company you are hiring for have clearly stated values and take them seriously.  I may not even fully agree to all of them, but I love to work for people who are serious about doing good in the world.
 * There's a chance to do lower level coding.  My skills in this area are still rather basic, but it's something I'm growing.
 * You're working on nature conservation, directly or indirectly.
-* Money is something that will attract me, and to move because of money, right now, I'd only consider a move like that for over £60k.  Money, though, is not my highest priority, and the job would need to meet some of my other desires.
+* Money is something that will attract me, and to move because of money, right now, I'd only consider a move like that for over £60k.  Money is not my highest priority, and the job would need to meet some of my other desires.
 
 
 ### Where you can find me:
 
-**🏡 [website][website] (I'm currently building it as I get time) |
-🐦 [twitter][twitter] | [LinkedIn][linkedin]**
+**🏡 [website][website] (I'm currently building it as I get time) | [LinkedIn][linkedin]**
 
 [website]: https://natureblog.co.uk/
-[twitter]: https://twitter.com/sandcurves
 [django]: https://www.djangoproject.com/
 [python]: https://www.python.org/
 [sossus-desert-lodge]: https://www.andbeyond.com/our-lodges/africa/namibia/sossusvlei-desert/andbeyond-sossusvlei-desert-lodge/
